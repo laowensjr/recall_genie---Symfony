@@ -1,5 +1,7 @@
-index:
-   path: /
-  controller: App\Controller\ArticleController::homepage
+#index:
+#   path: /
+#   controller: App\Controller\ArticleController::homepage
 
-
+#app_vehicle_recall:
+#   path: /recall/vehicle
+#   controller: App\Controller\VehicleRecallController::recallVehicle
