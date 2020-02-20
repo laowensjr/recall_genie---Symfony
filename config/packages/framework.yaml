@@ -14,3 +14,12 @@ framework:
     #fragments: true
     php_errors:
         log: true
+
+
+    http_client:
+        scoped_clients:
+            my_api_client:
+                base_uri: https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeId/440?format=json
+                verify_host: false
+                verify_peer: false
+
