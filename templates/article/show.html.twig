@@ -1,0 +1,23 @@
+{% extends 'base.html.twig' %}
+{% block title %} Lawrence {{ title }} {% endblock %}
+
+
+ {% block body %}
+
+    <title>Hello, world!</title>
+
+<h1>Lawrence {{ title }}</h1>
+<h3>lawrence {{ title2 }}</h3>
+<p>This is beneathe the title</p>
+
+<p>Then where is the slug</p>
+
+<h2>Comments - ({{ comments|length }})</h2>
+<ul>
+    {% for comment in comments %}
+        <li>{{ comment }}</li>
+    {% endfor %}
+
+</ul>
+
+{% endblock %}
