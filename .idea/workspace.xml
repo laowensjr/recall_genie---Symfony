@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7812143-3cff-4ce1-8195-8409a5e33741" name="Default Changelist" comment="WORKING 2">
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/ArticleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ArticleController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +139,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1Y0oYC563bpz0dPmhioHo0QQXhV" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -179,7 +182,7 @@
       <workItem from="1582251262158" duration="1922000" />
       <workItem from="1582278693390" duration="355000" />
       <workItem from="1582279147509" duration="64000" />
-      <workItem from="1582279270247" duration="2542000" />
+      <workItem from="1582279270247" duration="6360000" />
     </task>
     <task id="LOCAL-00001" summary="First Contoller coomit">
       <created>1582170384461</created>
@@ -233,10 +236,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="213" y="13" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582168021221" />
-    <state x="104" y="116" key="CommitChangelistDialog2" timestamp="1582278371394">
+    <state x="104" y="116" key="CommitChangelistDialog2" timestamp="1582285761009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="104" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582278371394" />
+    <state x="104" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582285761009" />
     <state x="1215" y="435" key="ComposerInitDialogKey" timestamp="1582191535989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -245,14 +248,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582278346027" />
-    <state x="254" y="360" key="FileChooserDialogImpl" timestamp="1582251055766">
+    <state x="254" y="360" key="FileChooserDialogImpl" timestamp="1582285462640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="254" y="360" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582251055766" />
-    <state x="1019" y="257" key="IDE.errors.dialog" timestamp="1582196584337">
+    <state x="254" y="360" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582285462640" />
+    <state x="1019" y="257" key="IDE.errors.dialog" timestamp="1582285389149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1019" y="257" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582196584337" />
+    <state x="1019" y="257" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582285389149" />
     <state x="700" y="334" key="NewPhpClassDialog" timestamp="1582171603596">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -273,5 +276,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="288" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582280288776" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1582285448020">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582285448020" />
   </component>
 </project>
